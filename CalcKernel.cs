@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace Calc
+namespace Calk
 {
     struct Sign {
         private readonly char _sign;
